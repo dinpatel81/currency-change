@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "1.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '1.coin.count'"
+  },
+  {
+    "name": "5.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '5.coin.count'"
+  },
+  {
+    "name": "10.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '10.coin.count'"
+  },
+  {
+    "name": "25.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '25.coin.count'"
+  },
+  {
+    "name": "1.cents.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '1.cents.coin.count'"
+  },
+  {
+    "name": "5.cents.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '5.cents.coin.count'"
+  },
+  {
+    "name": "10.cents.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '10.cents.coin.count'"
+  },
+  {
+    "name": "25.cents.coin.count",
+    "type": "java.lang.String",
+    "description": "A description for '25.cents.coin.count'"
+  }
+]}
